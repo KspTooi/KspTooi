@@ -5,7 +5,7 @@ welcome to my blog www.ksptooi.com
 
 这里是KspTooi ~ 大家都叫我kt   
 
-湖南理工学院 计算机专业 2018级本科生
+湖南理工学院 计算机专业
 ->主技能web后端 常用Java (不过现在都转kotlin了  
 -->数据库常用H2与Mysql 
 --->常用Windows Server系统   
