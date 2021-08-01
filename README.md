@@ -3,22 +3,6 @@ HI There.
 KspTooi - Developer Engineers   
 welcome to my blog www.ksptooi.com   
 
-这里是KspTooi ~ 大家都叫我kt   
-
-湖南理工学院 计算机专业  
-->主技能web后端 常用Java (不过现在都转kotlin了  
--->数据库常用H2与Mysql  
---->常用Windows Server系统  
----->想要开发自己的博客,喜欢捣鼓一些除web外的小东西. 安卓开发,运维,网络,硬件,之类的...不过都不精. 最拿手的还是web   
------>热爱折腾 喜欢学习/使用新事物.    
------->喜欢玩特别复杂的硬核游戏.  
-------->熟悉机械,电子.会使用电焊 电络铁等...能够进行光纤熔接   
--------->不看动漫.喜欢听轻音乐   
-
-
-
-
-
 ![](https://github-readme-stats.vercel.app/api?username=KspTooi)
 
 <!--
